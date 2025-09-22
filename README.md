@@ -19,8 +19,9 @@
 
 ## 🚀 What I'm Doing Right Now
 
-- 🔭 Building projects with **HTML, CSS, JavaScript, TailwindCSS , React**  
-- 🎨 Sharpening my ** Machine Learning and Data Science**  
+-🌱 I’m currently learning Fullstack Software Engineering
+- 🔭 Building projects with **HTML, CSS, JavaScript, TailwindCSS**  
+- 🎨 Sharpening my ** Machine Learning and Data Science skill**  
 - 🌱 Practicing **GitHub workflows** for team collaboration   
 - ✨ Writing clean, reusable, and accessible code  
 
@@ -39,9 +40,6 @@
 </p>
 
 ---
-
-
-
 
 
 
