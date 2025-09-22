@@ -9,22 +9,22 @@
 
 ---
 
+## 🚀 What I'm Doing Right Now
+
+- 🌱 I’m currently learning **Fullstack Software Engineering**  
+- 🔭 Building projects with **HTML, CSS, JavaScript, TailwindCSS**
+- 🎨 Sharpening my ** Machine Learning and Data Science skill**  
+- 🌱 Practicing **GitHub workflows** for team collaboration   
+- ✨ Writing clean, reusable, and accessible code  
+
+
+---
+
 ### 💌 Let’s Connect
 
 - 📧 **Email:** [sofia.asad@gmail.com](mailto:sofia.asad@gmail.com)  
 - 🤝 **Available for:** Collaboration • Learning Projects • Open Source Contributions  
 - 🌐 **GitHub:** [github.com/Sofia-Asad](https://github.com/Sofia-Asad)
-
----
-
-## 🚀 What I'm Doing Right Now
-
--🌱 I’m currently learning Fullstack Software Engineering
-- 🔭 Building projects with **HTML, CSS, JavaScript, TailwindCSS**  
-- 🎨 Sharpening my ** Machine Learning and Data Science skill**  
-- 🌱 Practicing **GitHub workflows** for team collaboration   
-- ✨ Writing clean, reusable, and accessible code  
-
 
 ---
 
