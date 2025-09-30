@@ -1,4 +1,4 @@
-<h1 align="center">💫 Hello , I'm Sofia Asad 👩🏽‍💻</h1>
+<h1 align="center"> Hello , I'm Sofia Asad </h1>
 <h3 align="center">🚀 Frontend Developer | 🤖 Machine Learning Enthusiast </h3>
 
 ---
@@ -16,7 +16,7 @@
 
 ### 💌 Let’s Connect
 
-- 📧 **Email:** [sphia654d@gmail.com](mailto:sphia654@gmail.com)  
+- 📧 **Email:** [sphia654@gmail.com](mailto:sphia654@gmail.com)  
 - 🤝 **Available for:** Collaboration • Learning Projects • Open Source Contributions  
 - 🌐 **GitHub:** [github.com/Sofia-Asad](https://github.com/Sofia-Asad)
 
