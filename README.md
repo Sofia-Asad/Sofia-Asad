@@ -16,7 +16,7 @@
 
 ### 💌 Let’s Connect
 
-- 📧 **Email:** [sofia.asad@gmail.com](mailto:sofia.asad@gmail.com)  
+- 📧 **Email:** [sphia654d@gmail.com](mailto:sphia654@gmail.com)  
 - 🤝 **Available for:** Collaboration • Learning Projects • Open Source Contributions  
 - 🌐 **GitHub:** [github.com/Sofia-Asad](https://github.com/Sofia-Asad)
 
