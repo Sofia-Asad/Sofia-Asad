@@ -1,4 +1,4 @@
-<h1 align="center"> Hello , I'm Sofia Asad </h1>
+<h1 align="center"> Hello👋 , I'm Sofia Asad </h1>
 <h3 align="center">🚀 Frontend Developer | 🤖 Machine Learning Enthusiast </h3>
 
 ---
