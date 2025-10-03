@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Fullstack Software Engineering**  
 - 🔭 Building projects with **HTML, CSS, JavaScript, TailwindCSS**
-- 🎨 Sharpening my ** Machine Learning and Data Science skill**  
+- 🎨 Sharpening my **Machine Learning and Data Science skill**  
 - 🌱 Practicing **GitHub workflows** for team collaboration   
 - ✨ Writing clean, reusable, and accessible code  
 
